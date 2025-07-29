@@ -8,6 +8,8 @@
 
 #include <string>
 #include "mozilla/ipc/UtilityProcessSandboxing.h"
+#include <vector>
+#include <string>
 
 enum MacSandboxType {
   MacSandboxType_Default = 0,
